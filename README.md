@@ -27,7 +27,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=padukadafa&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=padukadafa&label=Profile%20Views&color=0&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
   
 
