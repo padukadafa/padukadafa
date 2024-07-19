@@ -4,7 +4,7 @@
          height="45"
          width="45" /> I'm Daniel Ferryal Zuhri</h1>
          
-[![trophy](https://github-profile-trophy.vercel.app/?username=padukadafa)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=padukadafa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # 💫 About Me :
